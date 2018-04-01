@@ -1,2 +1,2 @@
 def prime?(integer)
-  integer
+   if integer >= 2 
